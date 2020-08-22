@@ -1,0 +1,15 @@
+{
+  "name": "awesome-anti-systemd",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "fiddly": "https://github.com/oofdog/fiddly#3e4f1da"
+  },
+  "fiddly": {
+    "name": "Awesome Anti-Systemd",
+    "noHeader": true,
+    "styles": "styles.css",
+    "repo": "https://github.com/oofdog/awesome-anti-systemd"
+  }
+}

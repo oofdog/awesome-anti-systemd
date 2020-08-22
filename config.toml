@@ -1,0 +1,5 @@
+baseURL = "https://awesome-anti-systemd.netlify.app/"
+languageCode = "en-us"
+title = "Awesome Anti-Systemd"
+googleAnalytics = "UA-129306445-2"
+disableKinds = ["taxonomy", "term"]
