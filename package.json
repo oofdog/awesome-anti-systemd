@@ -4,12 +4,13 @@
     "build": "./build.sh"
   },
   "dependencies": {
-    "fiddly": "https://github.com/oofdog/fiddly#3e4f1da"
+    "fiddly": "https://github.com/oofdog/fiddly#b2f7f85"
   },
   "fiddly": {
     "name": "Awesome Anti-Systemd",
     "noHeader": true,
     "styles": "styles.css",
-    "repo": "https://github.com/oofdog/awesome-anti-systemd"
+    "repo": "https://github.com/oofdog/awesome-anti-systemd",
+    "ga4Id": "G-S7PF82B1GF"
   }
 }
